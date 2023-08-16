@@ -1,8 +1,9 @@
-
+bibliography: citations.bib
+nocite: `\nocite{*}`{=latex}
 
 <div class="tabularx" markdown="1">
 
- Ojaswee  
+@ C @ Ojaswee  
 [ Ojaswee](https://github.com/ojojaswee)  $|$
  [ Ojaswee](https://www.linkedin.com/in/ojaswee-263448190)  $|$
  [ ojojaswee.github.io](https://ojojaswee.github.io/)  $|$
